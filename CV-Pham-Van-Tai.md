@@ -67,17 +67,6 @@ Kỹ sư phần mềm với 7 năm kinh nghiệm phát triển sản phẩm cho 
 
 **Công nghệ:** TypeScript, React, Remix, Next.js, NestJS, Laravel, PostgreSQL, Prisma, OpenAI, Gemini Live, Pinecone, Firebase, Stripe, AWS, CDKTF/Terraform, Docker.
 
-### AI GIJIROKU - Nền tảng biên bản cuộc họp ứng dụng AI
-
-**Vai trò:** Full-stack / AI Platform Engineer
-
-- Phát triển nền tảng ghi âm, chuyển giọng nói thành văn bản và tạo biên bản cuộc họp; hỗ trợ nhận diện người nói, dịch đa ngôn ngữ, tóm tắt bằng AI và quản lý nội dung cuộc họp.
-- Xây dựng ứng dụng Electron và bot tham gia Google Meet, Zoom, Microsoft Teams; tích hợp xử lý nội dung YouTube và âm thanh/video bằng WebRTC, FFmpeg, Microsoft Speech SDK.
-- Phát triển ứng dụng web, API và lớp dữ liệu bằng React, Vue/Nuxt, Node.js, Firebase, PostgreSQL/Prisma; tích hợp OpenAI và pgvector để xử lý, tìm kiếm nội dung cuộc họp.
-- Triển khai và vận hành hệ thống trên AWS với ECS Fargate, EC2, ALB, ECR, EFS và SQS; quản lý hạ tầng bằng CDKTF/Terraform, tự động hóa triển khai qua CI/CD và theo dõi lỗi bằng Sentry.
-
-**Công nghệ:** TypeScript, Node.js, Electron, React, Vue.js, Nuxt.js, Firebase, PostgreSQL, Prisma, OpenAI, pgvector, Microsoft Speech SDK, WebRTC, FFmpeg, AWS, Docker, CDKTF/Terraform.
-
 ### MEXT - Nền tảng tìm kiếm tri thức giáo dục ứng dụng RAG
 
 **Vai trò:** Full-stack / AI Engineer
@@ -88,6 +77,17 @@ Kỹ sư phần mềm với 7 năm kinh nghiệm phát triển sản phẩm cho 
 - Triển khai và vận hành môi trường staging/production bằng CDKTF/Terraform với ECS Fargate, Aurora PostgreSQL, ALB và CloudFront; thiết lập cảnh báo CloudWatch và kiểm tra dịch vụ bằng Synthetics Canary.
 
 **Công nghệ:** TypeScript, Next.js, React, NestJS, Python, FastAPI, PostgreSQL, Prisma, Qdrant, OpenAI, Amazon Bedrock, Firebase, AWS, CDKTF/Terraform, Docker.
+
+### AI GIJIROKU - Nền tảng biên bản cuộc họp ứng dụng AI
+
+**Vai trò:** Full-stack / AI Platform Engineer
+
+- Phát triển nền tảng ghi âm, chuyển giọng nói thành văn bản và tạo biên bản cuộc họp; hỗ trợ nhận diện người nói, dịch đa ngôn ngữ, tóm tắt bằng AI và quản lý nội dung cuộc họp.
+- Xây dựng ứng dụng Electron và bot tham gia Google Meet, Zoom, Microsoft Teams; tích hợp xử lý nội dung YouTube và âm thanh/video bằng WebRTC, FFmpeg, Microsoft Speech SDK.
+- Phát triển ứng dụng web, API và lớp dữ liệu bằng React, Vue/Nuxt, Node.js, Firebase, PostgreSQL/Prisma; tích hợp OpenAI và pgvector để xử lý, tìm kiếm nội dung cuộc họp.
+- Triển khai và vận hành hệ thống trên AWS với ECS Fargate, EC2, ALB, ECR, EFS và SQS; quản lý hạ tầng bằng CDKTF/Terraform, tự động hóa triển khai qua CI/CD và theo dõi lỗi bằng Sentry.
+
+**Công nghệ:** TypeScript, Node.js, Electron, React, Vue.js, Nuxt.js, Firebase, PostgreSQL, Prisma, OpenAI, pgvector, Microsoft Speech SDK, WebRTC, FFmpeg, AWS, Docker, CDKTF/Terraform.
 
 ### Các dự án SaaS và quản trị doanh nghiệp khác
 

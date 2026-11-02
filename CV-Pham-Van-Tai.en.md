@@ -29,10 +29,10 @@ Software engineer with 7 years of experience developing products across educatio
 
 #### Team Leader | 03/2025 - Present
 
-- Lead a 7-member team; plan and estimate workloads, assign tasks, and track progress.
-- Analyze requirements, design architecture, and directly develop core components for AI/RAG systems, asynchronous processing, and payments.
-- Conduct code reviews, mentor team members, and standardize development processes to ensure delivery quality.
-- Work with clients to clarify requirements, manage technical risks, and coordinate production releases, monitoring, and incident resolution.
+- Lead a 7-member team from requirements analysis through delivery, including planning, workload estimation, task allocation, and progress tracking.
+- Set technical direction, design system architecture, and manage technical risks for AI/RAG systems, asynchronous processing, and payments while developing core components hands-on.
+- Lead code reviews, mentor team members, and standardize development processes to maintain the quality of the team's deliverables.
+- Collaborate with clients to clarify requirements and coordinate the team during production releases, monitoring, and incident resolution.
 
 #### Software Engineer | 2022 - 02/2025
 
@@ -103,12 +103,3 @@ Software engineer with 7 years of experience developing products across educatio
 ### University of Economics - Technology for Industries | 10/2016 - 05/2020
 
 **Major:** Information Technology
-
-## CERTIFICATIONS
-
-- Backend PHP | Zent Group | 2019
-- Frontend | Zent Group | 2018
-
-## INTERESTS
-
-- Running (completed a marathon), swimming (1,500 m distance), and football.

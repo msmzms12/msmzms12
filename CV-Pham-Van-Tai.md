@@ -29,10 +29,10 @@ Kỹ sư phần mềm với 7 năm kinh nghiệm phát triển sản phẩm cho 
 
 #### Team Leader | 03/2025 - Hiện tại
 
-- Quản lý nhóm 7 thành viên; lập kế hoạch, ước lượng khối lượng công việc, phân công và theo dõi tiến độ.
-- Phân tích yêu cầu, thiết kế kiến trúc và trực tiếp phát triển các thành phần cốt lõi của hệ thống AI/RAG, xử lý bất đồng bộ và thanh toán.
-- Thực hiện code review, hướng dẫn thành viên và chuẩn hóa quy trình phát triển để đảm bảo chất lượng bàn giao.
-- Phối hợp với khách hàng làm rõ yêu cầu, quản lý rủi ro kỹ thuật và tổ chức phát hành, giám sát, xử lý sự cố trên môi trường production.
+- Dẫn dắt nhóm 7 thành viên từ phân tích yêu cầu đến bàn giao; lập kế hoạch, ước lượng khối lượng công việc, phân công và theo dõi tiến độ.
+- Định hướng kỹ thuật, thiết kế kiến trúc và quản lý rủi ro kỹ thuật cho các hệ thống AI/RAG, xử lý bất đồng bộ và thanh toán; trực tiếp phát triển các thành phần cốt lõi.
+- Dẫn dắt hoạt động code review, hướng dẫn thành viên và chuẩn hóa quy trình phát triển để kiểm soát chất lượng bàn giao của nhóm.
+- Phối hợp với khách hàng làm rõ yêu cầu và điều phối nhóm trong quá trình phát hành, giám sát, xử lý sự cố trên môi trường production.
 
 #### Software Engineer | 2022 - 02/2025
 
@@ -103,12 +103,3 @@ Kỹ sư phần mềm với 7 năm kinh nghiệm phát triển sản phẩm cho 
 ### Đại học Kinh tế - Kỹ thuật Công nghiệp | 10/2016 - 05/2020
 
 **Chuyên ngành:** Công nghệ thông tin
-
-## CHỨNG CHỈ
-
-- Backend PHP | Zent Group | 2019
-- Frontend | Zent Group | 2018
-
-## SỞ THÍCH
-
-- Chạy bộ (đã hoàn thành marathon), bơi lội (cự ly 1.500 m), bóng đá.
